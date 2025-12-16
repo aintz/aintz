@@ -13,9 +13,8 @@
 </h3>
 
 <p>
-  <a style="text-decoration:none; color:#fff" href="mailto:aintzz.im@gmail.com">
-    <img src="./mail.png" width="18" />
-    <font color="#24292f">Email — aintzz.im@gmail.com</font>
+  <a href="mailto:aintzz.im@gmail.com">
+    <img src="./email-me.png" />
   </a>
   <br/><br/>
 
