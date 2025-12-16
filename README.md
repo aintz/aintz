@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I’m Aint
 
-<!--
-**aintz/aintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Frontend Software Engineer** with a strong **product and user-experience mindset**.  
+I enjoy building clear, performant interfaces and working closely with design and product to turn complex problems into simple, intuitive experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+### Frontend
+- React
+- TypeScript / JavaScript
+- HTML, CSS
+- Redux
+
+### Data & APIs
+- REST APIs
+- GraphQL (queries, mutations, caching concepts)
+
+### Testing
+- Jest/Vitest
+
+### Tooling & Workflow
+- Git & GitHub
+- CI/CD with GitHub Actions
+- Monitoring & debugging with Datadog
+- Experience working in monorepos (Nx-based)
+
+### 🤝 Connect
+
+<p align="left">
+  <a href="mailto:aintzz.im@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aintzz.im%40gmail.com-informational?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aintzaneiglesias/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aintzane%20Iglesias-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://aintzz.com/">
+    <img src="https://img.shields.io/badge/Website-aintzz.com-black?style=flat&logo=vercel" />
+  </a>
+</p>
+
