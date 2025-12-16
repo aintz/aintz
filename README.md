@@ -2,7 +2,7 @@
   <img src="./gh.png" alt="Profile banner" />
 </p>
 
-<h3>
+<h3 align="center">
   <img src="./heart.png" width="18" />
   <img src="./heart.png" width="18" />
   <img src="./heart.png" width="18" />
