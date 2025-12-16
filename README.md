@@ -2,7 +2,7 @@
   <img src="./gh.png" alt="Profile banner" />
 </p>
 
-### 🤝 Connect
+###  <img src="./heart.png" /> Connect
 
 <p align="left">
   <a href="mailto:aintzz.im@gmail.com">
