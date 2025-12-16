@@ -1,9 +1,9 @@
 <p align="center">
   <img src="./gh.png" alt="Profile banner" />
 </p>
-
+&nbsp;&nbsp;&nbsp;
 <p align="center">
-  <img src="./connect.png" alt="Profile banner" />
+  <img width="400" src="./connect.png" alt="Profile banner" />
 </p>
 
 <p align="center">
