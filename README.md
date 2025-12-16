@@ -1,35 +1,6 @@
 <p align="center">
-  <img src="./gh_banner.png" alt="Profile banner" />
+  <img src="./gh.png" alt="Profile banner" />
 </p>
-
-
-# 👋 Hi, I’m Aint
-
-I’m a **Frontend Software Engineer** with a strong **product and user-experience mindset**.  
-I enjoy building clear, performant interfaces and working closely with design and product to turn complex problems into simple, intuitive experiences.
-
----
-
-## Tech stack
-
-### Frontend
-- React
-- TypeScript / JavaScript
-- HTML, CSS
-- Redux
-
-### Data & APIs
-- REST APIs
-- GraphQL (queries, mutations, caching concepts)
-
-### Testing
-- Jest/Vitest
-
-### Tooling & Workflow
-- Git & GitHub
-- CI/CD with GitHub Actions
-- Monitoring & debugging with Datadog
-- Experience working in monorepos (Nx-based)
 
 ### 🤝 Connect
 
