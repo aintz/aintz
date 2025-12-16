@@ -10,10 +10,10 @@
   <a href="mailto:aintzz.im@gmail.com">
     <img src="./mail.png" width="250" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/aintzaneiglesias/">
+  <a  target="_blank" href="https://www.linkedin.com/in/aintzaneiglesias/">
     <img src="./link.png" width="250" alt="LinkedIn" />
   </a>
-  <a href="https://aintzz.com/">
+  <a target="_blank" href="https://aintzz.com/">
     <img src="./visit.png" width="250" alt="Website" />
   </a>
 </p>
