@@ -3,7 +3,10 @@
 </p>
 
 ###  <img width="20" src="./heart.png" /> Connect
-
+<h3>
+  <img src="./heart.png" width="20" style="vertical-align: middle;" />
+  Connect
+</h3>
 <p align="left">
   <a href="mailto:aintzz.im@gmail.com">
     <img src="https://img.shields.io/badge/Email-aintzz.im%40gmail.com-informational?style=flat&logo=gmail" />
