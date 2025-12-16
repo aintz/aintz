@@ -14,14 +14,12 @@
 
 <p align="center">
   <a href="mailto:aintzz.im@gmail.com">
-    <img src="./mail.png" width="26" alt="Email" />
+    <img src="./mail.png" width="250" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aintzaneiglesias/">
-    <img src="./link.png" width="26" alt="LinkedIn" />
+    <img src="./link.png" width="250" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://aintzz.com/">
-    <img src="./visit.png" width="26" alt="Website" />
+    <img src="./visit.png" width="250" alt="Website" />
   </a>
 </p>
