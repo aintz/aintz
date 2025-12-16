@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./gh_banner.png" alt="Profile banner" />
+</p>
+
+
 # 👋 Hi, I’m Aint
 
 I’m a **Frontend Software Engineer** with a strong **product and user-experience mindset**.  
