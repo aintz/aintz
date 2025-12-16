@@ -7,6 +7,9 @@
   <img src="./heart.png" width="18" />
   <img src="./heart.png" width="18" />
   Connect
+  <img src="./heart.png" width="18" />
+  <img src="./heart.png" width="18" />
+  <img src="./heart.png" width="18" />
 </h3>
 
 <p>
