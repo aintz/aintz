@@ -14,18 +14,16 @@
 
 <p>
   <a href="mailto:aintzz.im@gmail.com">
-    <img src="./email-me.png" />
+    <img src="./emailme.png" />
   </a>
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/aintzaneiglesias/">
-    <img src="./link.png" width="18" />
-    <font color="#24292f">LinkedIn — Aintzane Iglesias</font>
+    <img src="./linkedin.png" />
   </a>
   <br/><br/>
 
   <a href="https://aintzz.com/">
-    <img src="./home.png" width="18" />
-    <font color="#24292f">Website — aintzz.com</font>
+    <img src="./website.png" />
   </a>
 </p>
