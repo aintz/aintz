@@ -12,18 +12,16 @@
   <img src="./heart.png" width="18" />
 </h3>
 
-<p>
+<p align="center">
   <a href="mailto:aintzz.im@gmail.com">
-    <img width="184" src="./emailme.png" />
+    <img src="./mail.png" width="26" alt="Email" />
   </a>
-  <br/><br/>
-
-  <a target="_blank" href="https://www.linkedin.com/in/aintzaneiglesias/">
-    <img width="184" src="./linkedin.png" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aintzaneiglesias/">
+    <img src="./link.png" width="26" alt="LinkedIn" />
   </a>
-  <br/><br/>
-
-  <a  target="_blank"  href="https://aintzz.com/">
-    <img width="184" src="./website.png" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aintzz.com/">
+    <img src="./visit.png" width="26" alt="Website" />
   </a>
 </p>
